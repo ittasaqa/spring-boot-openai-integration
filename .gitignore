@@ -1,0 +1,40 @@
+# AI Integration Demo Project
+
+# Compiled files
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Application specific
+application.properties
+!application-example.properties
+
+# Database
+*.db
+*.h2.db
+
+# Temporary files
+*.tmp
+temp/
