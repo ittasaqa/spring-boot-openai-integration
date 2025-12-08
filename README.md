@@ -1,4 +1,4 @@
-# AI Integration Demo - ChatGPT & Claude API Integration
+# AI Integration - ChatGPT & Claude API Integration
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen)
