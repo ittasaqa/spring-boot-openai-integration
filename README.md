@@ -66,7 +66,7 @@ Perfect for GitHub portfolio to showcase AI integration expertise! ⭐
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-integration-demo.git
+git clone https://github.com/codiebyheaartspring-boot-openai-integration.git
 cd ai-integration-demo
 ```
 
@@ -375,8 +375,8 @@ Give a ⭐️ if this project helped you!
 
 Have questions or need AI integration services?
 - Create an issue
-- Email: your.email@example.com
-- Fiverr: [Your Fiverr Profile](https://fiverr.com/yourprofile)
+- Email: your.dilsecodie@gmail.com
+
 
 ---
 
